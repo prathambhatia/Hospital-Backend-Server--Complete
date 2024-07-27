@@ -53,4 +53,4 @@ This repository contains the backend server for managing a hospital's data using
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the PRATHAM BHATIA License.
